@@ -22,7 +22,7 @@ def main():
         return
 
     # 创建下载目录
-    os.makedirs("warframe_data", exist_ok=True)
+    os.makedirs("warframe_public_export", exist_ok=True)
 
     # 遍历所有行并下载文件
     for line in lines:
@@ -47,12 +47,12 @@ def main():
             try:
                 data = response.json()
                 # 保存格式化JSON
-                save_path = os.path.join("warframe_data", filename)
+                save_path = os.path.join("warframe_public_export", filename)
                 with open(save_path, "w", encoding="utf-8") as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
             except json.JSONDecodeError:
                 # 直接保存原始内容
-                save_path = os.path.join("warframe_data", filename)
+                save_path = os.path.join("warframe_public_export", filename)
                 with open(save_path, "wb") as f:
                     f.write(response.content)
 
