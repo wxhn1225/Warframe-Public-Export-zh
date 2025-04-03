@@ -21995,7 +21995,7 @@
     },
     {
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleBarrel",
-      "name": "侦察者步枪 枪管",
+      "name": "侦察者 枪管",
       "description": "一个武器的制作部件。",
       "codexSecret": false,
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
@@ -22003,7 +22003,7 @@
     },
     {
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleReceiver",
-      "name": "侦查者步枪 枪机",
+      "name": "侦察者 枪机",
       "description": "一个武器的制作部件。",
       "codexSecret": false,
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
@@ -22011,7 +22011,7 @@
     },
     {
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnBeltFedRifleStock",
-      "name": "侦查者步枪 枪托",
+      "name": "侦察者 枪托",
       "description": "一个武器的制作部件。",
       "codexSecret": false,
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",

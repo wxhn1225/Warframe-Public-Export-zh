@@ -1252,13 +1252,6 @@
       "description": "部署热熔火箭炮",
       "codexSecret": false,
       "parentName": "/Lotus/Types/Game/Restorative"
-    },
-    {
-      "uniqueName": "/Lotus/Upgrades/Stickers/Objects/POM2NetworkingSummon",
-      "name": "召唤殁世机甲",
-      "description": "召唤一架殁世机甲到战场上。",
-      "codexSecret": false,
-      "parentName": "/Lotus/Types/Restoratives/LoadoutTechSummon"
     }
   ]
 }

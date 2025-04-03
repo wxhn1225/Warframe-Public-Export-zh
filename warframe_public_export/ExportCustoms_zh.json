@@ -844,6 +844,13 @@
       "description": "Nova 战甲的头盔，由 Rekkou 设计。"
     },
     {
+      "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/WF1999NovaAuxHat",
+      "name": "Kaya's Reactors",
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "description": "Kaya fashioned these tiny reactors to experiment with her newfound powers, but more than anything, she just likes how cool they look."
+    },
+    {
       "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/WF1999NovaSkin",
       "name": "卡娅双子外观",
       "codexSecret": false,
@@ -6558,7 +6565,6 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Effects/DexEphemera",
       "name": "Dex 月桂幻纹",
       "codexSecret": false,
-      "excludeFromCodex": true,
       "description": "通过这款优雅的幻纹纪念 Tenno 首次苏醒以来的 12 个周期。"
     },
     {
@@ -20270,6 +20276,13 @@
       "description": "勇气披饰会在 Tenno 受到伤害时燃烧起来。"
     },
     {
+      "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TC2025EvolvedScarf",
+      "name": "TennoCon 裂隙护卫披饰（虚空侵蚀）",
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "description": "使用 TennoCon 裂隙护卫表情动作时，这件被虚空侵蚀的斗篷会化为正常形态。为庆祝 TennoCon 十周年而创作。"
+    },
+    {
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/TC2025Scarf",
       "name": "TennoCon 裂隙护卫披饰",
       "codexSecret": true,
@@ -23160,6 +23173,13 @@
     {
       "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2024Sigil",
       "name": "Tenno VIP East 纹章",
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "description": "VIP Tenno 的纹章。"
+    },
+    {
+      "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoVIP2025Sigil",
+      "name": "TennoVIP 2025 纹章",
       "codexSecret": false,
       "excludeFromCodex": true,
       "description": "VIP Tenno 的纹章。"

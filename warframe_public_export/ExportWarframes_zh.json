@@ -835,7 +835,7 @@
         {
           "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/TempleGuitarAbility",
           "abilityName": "显赫独奏",
-          "description": "一旦反拍节拍器上积聚了能量，丽兹就会燃烧起来，用 <DT_FIRE_COLOR>火焰焚烧敌人。瞄准时，丽兹以轰鸣的元素声波轰击敌人，可通过技能按键切换元素伤害类型。\r\n\r\n反拍节奏：本技能不消耗能量。"
+          "description": "一旦反拍节拍器上积聚了能量，丽兹就会燃烧起来，用 <DT_FIRE_COLOR>火焰焚烧敌人。瞄准时，丽兹以轰鸣的元素声波轰击敌人，可通过技能按键发射不同元素类型的声波。\r\n\r\n反拍节奏：本技能不消耗能量。"
         }
       ],
       "productCategory": "Suits"
