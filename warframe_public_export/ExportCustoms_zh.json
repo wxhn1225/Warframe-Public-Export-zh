@@ -845,7 +845,7 @@
     },
     {
       "uniqueName": "/Lotus/Upgrades/Skins/AntiMatter/WF1999NovaAuxHat",
-      "name": "Kaya's Reactors",
+      "name": "卡娅的反应堆",
       "codexSecret": false,
       "excludeFromCodex": true,
       "description": "Kaya fashioned these tiny reactors to experiment with her newfound powers, but more than anything, she just likes how cool they look."
@@ -7960,7 +7960,7 @@
       "name": "维利米尔的冷却剂罐",
       "codexSecret": false,
       "excludeFromCodex": true,
-      "description": "没人知道这个罐子里到底装了什么，但它似乎在某种程度上增强了 Frost 原型战甲的能力。维利米尔坚持说它让他保持’醒脑提神‘。"
+      "description": "没人知道这个罐子里到底装了什么，但它似乎在某种程度上增强了 Frost 原型战甲的能力。维利米尔坚持说它让他保持“醒脑提神”。"
     },
     {
       "uniqueName": "/Lotus/Upgrades/Skins/Frost/WF1999FrostSkin",
@@ -20569,7 +20569,7 @@
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/VitamPrimeSyandana",
       "name": "命脉 Prime 披饰",
       "codexSecret": false,
-      "description": "将战斗的混乱转化为金子般的的胜利。"
+      "description": "将战斗的混乱转化为金子般的胜利。"
     },
     {
       "uniqueName": "/Lotus/Upgrades/Skins/Scarves/WraithTurbinesScarf",

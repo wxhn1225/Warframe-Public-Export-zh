@@ -1379,7 +1379,7 @@
       {
         "uniqueName": "/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardFriendsDefense",
         "name": "防御",
-        "description": "Complete a Defense mission reaching at least Wave 12.",
+        "description": "完成一场至少 12 波的防御任务。",
         "standing": 7000,
         "required": 1
       },
