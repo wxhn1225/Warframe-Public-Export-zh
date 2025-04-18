@@ -4579,7 +4579,7 @@
     {
       "uniqueName": "/Lotus/Types/Items/MiscItems/FormaStance",
       "name": "架式 Forma",
-      "description": "改变近战武器上的架式槽位以与任何 MOD 的极性相容。",
+      "description": "改变近战武器上的架式槽位以与任何 Mod 的极性相容。",
       "codexSecret": true,
       "parentName": "/Lotus/Types/Items/MiscItems/Forma"
     },
@@ -13020,7 +13020,7 @@
     {
       "uniqueName": "/Lotus/Types/Items/ShipDecos/LisetPropSUPosters",
       "name": "索拉里斯工业带材",
-      "description": "由 Corpus 出产的海报及布告板，提醒 Solaris 工人的权利及安全协议。一律举报不遵奉者！人生是利益，利益就是人生！",
+      "description": "由 Corpus 出产的海报及布告板，提醒 Solaris 工人的权利及安全措施。一律举报不遵奉者！人生是利益，利益就是人生！",
       "codexSecret": false,
       "parentName": "/Lotus/Types/Items/ShipDecos/ShipDecoItem",
       "excludeFromCodex": true
@@ -20254,6 +20254,20 @@
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
     },
     {
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrnChainSawTonfaBlade",
+      "name": "通卡拐刃 刀刃",
+      "description": "一个武器的制作部件。",
+      "codexSecret": true,
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    {
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrnChainSawTonfaHandle",
+      "name": "通卡拐刃 握柄",
+      "description": "一个武器的制作部件。",
+      "codexSecret": true,
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    {
       "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrnGhoulSawBlade",
       "name": "尸鬼电锯 锯片",
       "description": "一个武器的制作部件。",
@@ -20808,6 +20822,27 @@
       "name": "米特尔 枪把",
       "description": "一个武器的制作部件。",
       "codexSecret": false,
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    {
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/MortiforShieldAndSwordBlade",
+      "name": "塔克 & 卢格 刀刃",
+      "description": "一个武器的制作部件。",
+      "codexSecret": true,
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    {
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/MortiforShieldAndSwordGuard",
+      "name": "塔克 & 卢格 护手",
+      "description": "一个武器的制作部件。",
+      "codexSecret": true,
+      "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
+    },
+    {
+      "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/MortiforShieldAndSwordHandle",
+      "name": "塔克 & 卢格 握柄",
+      "description": "一个武器的制作部件。",
+      "codexSecret": true,
       "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
     },
     {

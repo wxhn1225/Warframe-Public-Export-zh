@@ -7141,6 +7141,13 @@
       "description": "附肢寄生者的独特外观。"
     },
     {
+      "uniqueName": "/Lotus/Upgrades/Skins/Events/OgrisOldSchool",
+      "name": "易爆食人女魔外观",
+      "codexSecret": false,
+      "excludeFromCodex": true,
+      "description": "第一代食人女魔因引爆其指挥官而臭名昭著。这是韦·海克最喜欢看到的场景。幸运的是，这款外观已启用安全措施。"
+    },
+    {
       "uniqueName": "/Lotus/Upgrades/Skins/Events/PremiumBunnyEars",
       "name": "花兔头饰",
       "codexSecret": false,
